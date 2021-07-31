@@ -280,3 +280,149 @@ a, a:hover{
 	border: 1px solid #00bc9c;
 }
 /*want-to section code end here*/
+
+
+
+/*footer-section code here*/
+.footer{
+	width: 100%;
+}
+.footer .top-footer{
+	width: 100%;
+	padding: 80px 0px;
+	background: #2f4052;
+}
+.inner-wiget{
+	width: 100%;
+	padding-left: 10px;
+}
+.inner-wiget h4{
+	font-size: 22px;
+	font-weight: 600;
+	color: #fff;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	margin: 0px 0px 30px;
+}
+.inner-wiget img{
+	margin-bottom: 25px;
+}
+.inner-wiget p{
+	color: #a3b1bf;
+	font-size: 14px;
+	font-weight: 600;
+	margin-bottom: 30px;
+
+}
+.inner-wiget a{
+	color: #a3b1bf;
+	font-size: 18px;
+    font-weight: 700;
+}
+.inner-wiget a:hover{
+	color: #00bc9c;
+}
+.fa-long-arrow-right{
+	margin-left: 8px;
+	font-weight: 700;
+	font-size: 16px;
+}
+.inner-wiget .card img{
+    margin-bottom: 0px;
+}
+.inner-wiget .card{
+    border: 0px;
+    border-radius: 0px;
+    margin-left: 4px;
+}
+.inner-wiget .card .card-img-top {
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+}
+.inner-wiget .mb-4{
+    margin-bottom: 15px !important;
+}
+.inner-wiget .col{
+    padding-right: 0px;
+    padding-left: 10px;
+}
+.inner-wiget ul{
+	display: block;
+}
+.inner-wiget ul li{
+	list-style: none;
+}
+.inner-wiget ul li a{
+	font-size: 14px;
+}
+.inner-wiget a .fa{
+	margin-right: 10px;
+	font-size: 15px;
+}
+.footer-form{
+	width: 100%;
+	position: relative;
+}
+.footer-form .form-control{
+	height: auto;
+	padding: 13px 2px;
+	font-size: 14px;
+	background: #4e5c6c;
+	font-weight: 600;
+	border: 1px solid #4e5c6c;
+}
+.footer-form .form-control:focus{
+	border: 1px solid #4e5c6c;
+}
+.footer-form .btn-primary{
+	position: absolute;
+	top: 5px;
+	right: 3px;
+	background: #00bc9c;
+	border: 1px solid #00bc9c;
+	transition: 1s;
+	color: #4e5c6c;
+	font-weight: 600;
+	padding: 5px 8px;
+}
+.footer-form .btn-primary:hover{
+	background: transparent;
+	border: 1px solid #00bc9c;
+	color: #00bc9c;
+}
+.bottom-footer{
+	width: 100%;
+	background: #283645;
+	padding: 10px 0px;
+}
+.bottom-footer p{
+	color: #707e8c;
+	font-size: 14px;
+	font-weight: 700;
+	margin: 5px 0px;
+	letter-spacing: 1px;
+}
+.bottom-footer ul{
+	display: block;
+	text-align: right;
+	margin-top: 5px;
+}
+.bottom-footer ul li{
+	display: inline-block;
+	margin-right: 15px;
+	list-style-type: disc;
+}
+.bottom-footer ul li a{
+	color: #5e6c7a;
+	font-weight: 700;
+	transition: .5s;
+}
+.bottom-footer ul li a:hover,
+.bottom-footer ul li a:focus{
+	color: #00bc9c;
+}
+.fa-circle{
+	font-size: 8px;
+	margin-right: 5px;
+}
+/* Bottom section code end here */
