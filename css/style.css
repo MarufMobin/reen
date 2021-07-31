@@ -143,3 +143,97 @@ a, a:hover{
 	border: 1px solid #00bc9c;
 }
 /* slider section css code end here */
+/* who-section code start here */
+.who-section{
+	width: 100%;
+	padding: 80px 0px;
+}
+.who-section .title{
+	width: 100%;
+	padding: 0px 0px 30px;
+	text-align: center;
+}
+.who-section .title h2{
+	font-size: 32px;
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	color: #a3b1bf;
+}
+.who-section .title p{
+    width: 58%;
+    margin: 0 auto;
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: 600;
+    color: #506a85;
+}
+.who-section .media{
+	padding: 30px 0px 0px;
+}
+.who-section .media-body {
+	padding: 0px 10px;
+}
+.who-section .media-body p{
+	font-size: 14px;
+	line-height: 24px;
+	font-weight: 600;
+}
+.who-section .media-body h5{
+	font-size: 20px;
+	font-weight: 600;
+	text-transform: capitalize;
+	color: #a3b1bf;
+	margin-bottom: 15px;
+}
+/* who-section code end here */
+/*portfolio-section code start here*/
+.portfolio-section{
+	width: 100%;
+	padding: 80px 0px;
+	background: #f2f5f7;
+} 
+.portfolio-section .title{
+	width: 100%;
+	padding: 0px 0px 30px;
+	text-align: center;
+}
+.portfolio-section .title h2{
+	font-size: 32px;
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	color: #a3b1bf;
+}
+.portfolio-section .title p{
+	width: 60%;
+	margin: 0 auto;
+	font-size: 18px;
+	line-height: 28px;
+	font-weight: 600;
+	color: #506a85;
+	
+}
+.portfolio-section .card .card-title{
+	font-size: 18px;
+	font-weight: 600;
+	color: #506a85;
+	text-align: center;
+}
+.portfolio-section .card .card-text{
+	font-size: 14px;
+	font-weight: 600;
+	color: #73879c;
+	text-align: center;
+}
+.portfolio-section .owl-carousel{
+	width: 100%;
+	padding: 60px 0px 0px;
+}
+.portfolio-section .owl-theme .owl-nav.disabled+.owl-dots{
+    margin-top: 30px;
+}
+.portfolio-section .owl-theme .owl-dots .owl-dot.active span,.portfolio-section .owl-theme .owl-dots .owl-dot span:hover{
+	background: #00bc9c;
+}
+/*portfolio-section code end here*/
